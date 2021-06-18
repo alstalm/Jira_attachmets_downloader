@@ -1,0 +1,2270 @@
+{
+    "expand": "schema,names",
+    "issues": [
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165894",
+            "key": "KAT-11979",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165894"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165883",
+            "key": "KAT-11978",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165883"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165835",
+            "key": "KAT-11975",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165835"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165759",
+            "key": "KAT-11965",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165759"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165751",
+            "key": "KAT-11964",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165751"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165733",
+            "key": "KAT-11963",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165733"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165726",
+            "key": "KAT-11962",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165726"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165696",
+            "key": "KAT-11959",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165696"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165683",
+            "key": "KAT-11958",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165683"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165652",
+            "key": "KAT-11955",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165652"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165577",
+            "key": "KAT-11946",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165577"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165568",
+            "key": "KAT-11945",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165568"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165561",
+            "key": "KAT-11944",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165561"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165557",
+            "key": "KAT-11943",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165557"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165552",
+            "key": "KAT-11942",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165552"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165548",
+            "key": "KAT-11941",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165548"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165540",
+            "key": "KAT-11939",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165540"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165538",
+            "key": "KAT-11938",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165538"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165535",
+            "key": "KAT-11937",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165535"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165530",
+            "key": "KAT-11936",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165530"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165527",
+            "key": "KAT-11935",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165527"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165493",
+            "key": "KAT-11934",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165493"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165480",
+            "key": "KAT-11932",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165480"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165439",
+            "key": "KAT-11927",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165439"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165418",
+            "key": "KAT-11925",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165418"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165402",
+            "key": "KAT-11923",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165402"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165355",
+            "key": "KAT-11917",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165355"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165323",
+            "key": "KAT-11916",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165323"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165300",
+            "key": "KAT-11913",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165300"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165298",
+            "key": "KAT-11912",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165298"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165278",
+            "key": "KAT-11910",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165278"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165272",
+            "key": "KAT-11909",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165272"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165254",
+            "key": "KAT-11908",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165254"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165220",
+            "key": "KAT-11906",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165220"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165180",
+            "key": "KAT-11902",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165180"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165176",
+            "key": "KAT-11901",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165176"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165105",
+            "key": "KAT-11899",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165105"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165062",
+            "key": "KAT-11897",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165062"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165055",
+            "key": "KAT-11896",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165055"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165053",
+            "key": "KAT-11895",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165053"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165029",
+            "key": "KAT-11893",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165029"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165011",
+            "key": "KAT-11890",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165011"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "165003",
+            "key": "KAT-11888",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/165003"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164969",
+            "key": "KAT-11885",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164969"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164940",
+            "key": "KAT-11883",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164940"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164883",
+            "key": "KAT-11879",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164883"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164874",
+            "key": "KAT-11875",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164874"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164872",
+            "key": "KAT-11874",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164872"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164865",
+            "key": "KAT-11869",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164865"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164861",
+            "key": "KAT-11867",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164861"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164722",
+            "key": "KAT-11859",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164722"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164660",
+            "key": "KAT-11854",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164660"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164612",
+            "key": "KAT-11851",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164612"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164598",
+            "key": "KAT-11850",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164598"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164556",
+            "key": "KAT-11848",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164556"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164487",
+            "key": "KAT-11845",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164487"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164461",
+            "key": "KAT-11841",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164461"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164458",
+            "key": "KAT-11840",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164458"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164445",
+            "key": "KAT-11839",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164445"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164383",
+            "key": "KAT-11833",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164383"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164367",
+            "key": "KAT-11832",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164367"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164357",
+            "key": "KAT-11829",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164357"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164350",
+            "key": "KAT-11828",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164350"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164348",
+            "key": "KAT-11827",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164348"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164327",
+            "key": "KAT-11823",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164327"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164238",
+            "key": "KAT-11818",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164238"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164192",
+            "key": "KAT-11816",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164192"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164158",
+            "key": "KAT-11814",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164158"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164109",
+            "key": "KAT-11812",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164109"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164094",
+            "key": "KAT-11809",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164094"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164093",
+            "key": "KAT-11808",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164093"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164088",
+            "key": "KAT-11806",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164088"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164085",
+            "key": "KAT-11804",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164085"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "164039",
+            "key": "KAT-11799",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/164039"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163911",
+            "key": "KAT-11794",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163911"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163858",
+            "key": "KAT-11790",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163858"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163848",
+            "key": "KAT-11788",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163848"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163846",
+            "key": "KAT-11787",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163846"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163770",
+            "key": "KAT-11783",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163770"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163733",
+            "key": "KAT-11781",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163733"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163676",
+            "key": "KAT-11776",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163676"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163587",
+            "key": "KAT-11768",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163587"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163561",
+            "key": "KAT-11767",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163561"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163541",
+            "key": "KAT-11763",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163541"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163539",
+            "key": "KAT-11762",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163539"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163511",
+            "key": "KAT-11760",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163511"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163480",
+            "key": "KAT-11756",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163480"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163426",
+            "key": "KAT-11753",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163426"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163402",
+            "key": "KAT-11752",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163402"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163335",
+            "key": "KAT-11749",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163335"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163295",
+            "key": "KAT-11745",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163295"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163186",
+            "key": "KAT-11741",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163186"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163174",
+            "key": "KAT-11740",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163174"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163168",
+            "key": "KAT-11738",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163168"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163166",
+            "key": "KAT-11737",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163166"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163155",
+            "key": "KAT-11734",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163155"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163148",
+            "key": "KAT-11733",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163148"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163097",
+            "key": "KAT-11728",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163097"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163093",
+            "key": "KAT-11726",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163093"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163039",
+            "key": "KAT-11725",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163039"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163006",
+            "key": "KAT-11721",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163006"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "163005",
+            "key": "KAT-11720",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/163005"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162996",
+            "key": "KAT-11719",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162996"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162950",
+            "key": "KAT-11716",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162950"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162938",
+            "key": "KAT-11715",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162938"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162932",
+            "key": "KAT-11714",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162932"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162910",
+            "key": "KAT-11711",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162910"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162909",
+            "key": "KAT-11710",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162909"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162908",
+            "key": "KAT-11709",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162908"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162907",
+            "key": "KAT-11708",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162907"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162885",
+            "key": "KAT-11699",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162885"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162818",
+            "key": "KAT-11694",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162818"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162763",
+            "key": "KAT-11692",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162763"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162733",
+            "key": "KAT-11690",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162733"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162681",
+            "key": "KAT-11688",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162681"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162674",
+            "key": "KAT-11687",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162674"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162580",
+            "key": "KAT-11683",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162580"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162566",
+            "key": "KAT-11682",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162566"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162480",
+            "key": "KAT-11679",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162480"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162469",
+            "key": "KAT-11678",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162469"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162370",
+            "key": "KAT-11673",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162370"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162328",
+            "key": "KAT-11670",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162328"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162279",
+            "key": "KAT-11666",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162279"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162197",
+            "key": "KAT-11660",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162197"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162189",
+            "key": "KAT-11659",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162189"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162177",
+            "key": "KAT-11657",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162177"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162168",
+            "key": "KAT-11656",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162168"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162155",
+            "key": "KAT-11654",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162155"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "162000",
+            "key": "KAT-11644",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/162000"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161926",
+            "key": "KAT-11642",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161926"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161857",
+            "key": "KAT-11632",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161857"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161789",
+            "key": "KAT-11629",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161789"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161733",
+            "key": "KAT-11628",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161733"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161693",
+            "key": "KAT-11626",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161693"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161689",
+            "key": "KAT-11625",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161689"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161629",
+            "key": "KAT-11617",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161629"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161584",
+            "key": "KAT-11611",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161584"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161536",
+            "key": "KAT-11608",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161536"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161521",
+            "key": "KAT-11606",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161521"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161492",
+            "key": "KAT-11603",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161492"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161482",
+            "key": "KAT-11602",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161482"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161457",
+            "key": "KAT-11596",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161457"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161363",
+            "key": "KAT-11583",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161363"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161359",
+            "key": "KAT-11581",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161359"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161358",
+            "key": "KAT-11580",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161358"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161351",
+            "key": "KAT-11577",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161351"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161332",
+            "key": "KAT-11575",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161332"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161299",
+            "key": "KAT-11569",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161299"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161278",
+            "key": "KAT-11567",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161278"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161260",
+            "key": "KAT-11561",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161260"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161205",
+            "key": "KAT-11558",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161205"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161194",
+            "key": "KAT-11556",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161194"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161187",
+            "key": "KAT-11555",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161187"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161171",
+            "key": "KAT-11554",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161171"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161146",
+            "key": "KAT-11549",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161146"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161135",
+            "key": "KAT-11548",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161135"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161123",
+            "key": "KAT-11547",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161123"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161112",
+            "key": "KAT-11544",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161112"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161106",
+            "key": "KAT-11543",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161106"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "161001",
+            "key": "KAT-11542",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/161001"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160966",
+            "key": "KAT-11541",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160966"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160836",
+            "key": "KAT-11520",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160836"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160833",
+            "key": "KAT-11519",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160833"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160803",
+            "key": "KAT-11518",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160803"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160798",
+            "key": "KAT-11517",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160798"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160764",
+            "key": "KAT-11508",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160764"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160745",
+            "key": "KAT-11506",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160745"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160744",
+            "key": "KAT-11505",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160744"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160676",
+            "key": "KAT-11502",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160676"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160540",
+            "key": "KAT-11499",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160540"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160536",
+            "key": "KAT-11497",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160536"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160485",
+            "key": "KAT-11490",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160485"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160418",
+            "key": "KAT-11489",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160418"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160409",
+            "key": "KAT-11488",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160409"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160325",
+            "key": "KAT-11482",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160325"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160321",
+            "key": "KAT-11481",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160321"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160249",
+            "key": "KAT-11478",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160249"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160245",
+            "key": "KAT-11477",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160245"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160215",
+            "key": "KAT-11475",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160215"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160207",
+            "key": "KAT-11472",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160207"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160174",
+            "key": "KAT-11468",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160174"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160152",
+            "key": "KAT-11467",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160152"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160114",
+            "key": "KAT-11464",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160114"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160091",
+            "key": "KAT-11461",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160091"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160090",
+            "key": "KAT-11460",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160090"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160089",
+            "key": "KAT-11459",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160089"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160088",
+            "key": "KAT-11458",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160088"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160086",
+            "key": "KAT-11457",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160086"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160084",
+            "key": "KAT-11456",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160084"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160082",
+            "key": "KAT-11455",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160082"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160061",
+            "key": "KAT-11454",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160061"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160060",
+            "key": "KAT-11453",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160060"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160059",
+            "key": "KAT-11452",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160059"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160056",
+            "key": "KAT-11451",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160056"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "160029",
+            "key": "KAT-11447",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/160029"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159937",
+            "key": "KAT-11439",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159937"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159927",
+            "key": "KAT-11438",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159927"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159910",
+            "key": "KAT-11437",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159910"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159881",
+            "key": "KAT-11436",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159881"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159870",
+            "key": "KAT-11435",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159870"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159855",
+            "key": "KAT-11431",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159855"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159760",
+            "key": "KAT-11428",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159760"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159745",
+            "key": "KAT-11426",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159745"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159693",
+            "key": "KAT-11425",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159693"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159638",
+            "key": "KAT-11420",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159638"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159633",
+            "key": "KAT-11419",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159633"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159622",
+            "key": "KAT-11418",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159622"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159584",
+            "key": "KAT-11410",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159584"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159553",
+            "key": "KAT-11409",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159553"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159547",
+            "key": "KAT-11408",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159547"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159546",
+            "key": "KAT-11407",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159546"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159541",
+            "key": "KAT-11406",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159541"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159531",
+            "key": "KAT-11403",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159531"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159520",
+            "key": "KAT-11401",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159520"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159515",
+            "key": "KAT-11398",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159515"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159511",
+            "key": "KAT-11396",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159511"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159509",
+            "key": "KAT-11395",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159509"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159501",
+            "key": "KAT-11392",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159501"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159500",
+            "key": "KAT-11391",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159500"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159345",
+            "key": "KAT-11390",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159345"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159335",
+            "key": "KAT-11389",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159335"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159308",
+            "key": "KAT-11387",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159308"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159248",
+            "key": "KAT-11384",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159248"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159246",
+            "key": "KAT-11383",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159246"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159238",
+            "key": "KAT-11382",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159238"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159231",
+            "key": "KAT-11380",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159231"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159229",
+            "key": "KAT-11378",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159229"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159138",
+            "key": "KAT-11372",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159138"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159137",
+            "key": "KAT-11371",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159137"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159132",
+            "key": "KAT-11369",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159132"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159127",
+            "key": "KAT-11368",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159127"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159126",
+            "key": "KAT-11367",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159126"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159114",
+            "key": "KAT-11364",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159114"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159086",
+            "key": "KAT-11363",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159086"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159081",
+            "key": "KAT-11362",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159081"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "159048",
+            "key": "KAT-11360",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/159048"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "158989",
+            "key": "KAT-11358",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/158989"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "158882",
+            "key": "KAT-11352",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/158882"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "158822",
+            "key": "KAT-11346",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/158822"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "158787",
+            "key": "KAT-11344",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/158787"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "158776",
+            "key": "KAT-11342",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/158776"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "158737",
+            "key": "KAT-11339",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/158737"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "158664",
+            "key": "KAT-11336",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/158664"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "158392",
+            "key": "KAT-11320",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/158392"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "158366",
+            "key": "KAT-11319",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/158366"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "158365",
+            "key": "KAT-11318",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/158365"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "158356",
+            "key": "KAT-11317",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/158356"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "158346",
+            "key": "KAT-11316",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/158346"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "158343",
+            "key": "KAT-11315",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/158343"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "158341",
+            "key": "KAT-11314",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/158341"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "158336",
+            "key": "KAT-11311",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/158336"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "158097",
+            "key": "KAT-11302",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/158097"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157976",
+            "key": "KAT-11292",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157976"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157966",
+            "key": "KAT-11291",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157966"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157945",
+            "key": "KAT-11290",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157945"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157896",
+            "key": "KAT-11287",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157896"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157823",
+            "key": "KAT-11284",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157823"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157760",
+            "key": "KAT-11277",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157760"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157759",
+            "key": "KAT-11276",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157759"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157722",
+            "key": "KAT-11273",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157722"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157628",
+            "key": "KAT-11268",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157628"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157622",
+            "key": "KAT-11267",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157622"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157615",
+            "key": "KAT-11265",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157615"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157598",
+            "key": "KAT-11264",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157598"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157566",
+            "key": "KAT-11260",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157566"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157525",
+            "key": "KAT-11259",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157525"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157496",
+            "key": "KAT-11255",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157496"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157484",
+            "key": "KAT-11252",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157484"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157464",
+            "key": "KAT-11245",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157464"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157454",
+            "key": "KAT-11243",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157454"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157450",
+            "key": "KAT-11242",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157450"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157449",
+            "key": "KAT-11241",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157449"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157446",
+            "key": "KAT-11240",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157446"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157445",
+            "key": "KAT-11239",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157445"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157299",
+            "key": "KAT-11224",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157299"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157282",
+            "key": "KAT-11222",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157282"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157089",
+            "key": "KAT-11206",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157089"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157086",
+            "key": "KAT-11205",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157086"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157021",
+            "key": "KAT-11199",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157021"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157020",
+            "key": "KAT-11198",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157020"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "157018",
+            "key": "KAT-11197",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/157018"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "156844",
+            "key": "KAT-11191",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/156844"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "156814",
+            "key": "KAT-11189",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/156814"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "156806",
+            "key": "KAT-11188",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/156806"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "156192",
+            "key": "KAT-11161",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/156192"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "155952",
+            "key": "KAT-11145",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/155952"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "155719",
+            "key": "KAT-11128",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/155719"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "155349",
+            "key": "KAT-11119",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/155349"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "155303",
+            "key": "KAT-11117",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/155303"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "155236",
+            "key": "KAT-11113",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/155236"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "155221",
+            "key": "KAT-11111",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/155221"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "155154",
+            "key": "KAT-11105",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/155154"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "155152",
+            "key": "KAT-11103",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/155152"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "154999",
+            "key": "KAT-11094",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/154999"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "154848",
+            "key": "KAT-11085",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/154848"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "154722",
+            "key": "KAT-11078",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/154722"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "154700",
+            "key": "KAT-11077",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/154700"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "154522",
+            "key": "KAT-11072",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/154522"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "154363",
+            "key": "KAT-11062",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/154363"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "153945",
+            "key": "KAT-11056",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/153945"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "153939",
+            "key": "KAT-11055",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/153939"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "153724",
+            "key": "KAT-11048",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/153724"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "153670",
+            "key": "KAT-11044",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/153670"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "153537",
+            "key": "KAT-11037",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/153537"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "153507",
+            "key": "KAT-11034",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/153507"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "153290",
+            "key": "KAT-11024",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/153290"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "153269",
+            "key": "KAT-11023",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/153269"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "153233",
+            "key": "KAT-11021",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/153233"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "153226",
+            "key": "KAT-11019",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/153226"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "152940",
+            "key": "KAT-10990",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/152940"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "152903",
+            "key": "KAT-10987",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/152903"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "152898",
+            "key": "KAT-10986",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/152898"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "152844",
+            "key": "KAT-10981",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/152844"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "152821",
+            "key": "KAT-10980",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/152821"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "152802",
+            "key": "KAT-10978",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/152802"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "152717",
+            "key": "KAT-10976",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/152717"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "152696",
+            "key": "KAT-10974",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/152696"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "152676",
+            "key": "KAT-10971",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/152676"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "152374",
+            "key": "KAT-10950",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/152374"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "151988",
+            "key": "KAT-10929",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/151988"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "151800",
+            "key": "KAT-10922",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/151800"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "151661",
+            "key": "KAT-10917",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/151661"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "151581",
+            "key": "KAT-10915",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/151581"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "151301",
+            "key": "KAT-10901",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/151301"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "151268",
+            "key": "KAT-10898",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/151268"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "151162",
+            "key": "KAT-10893",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/151162"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "151095",
+            "key": "KAT-10892",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/151095"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "150842",
+            "key": "KAT-10871",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/150842"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "150588",
+            "key": "KAT-10859",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/150588"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "150485",
+            "key": "KAT-10851",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/150485"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "150432",
+            "key": "KAT-10844",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/150432"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "150182",
+            "key": "KAT-10833",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/150182"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "150151",
+            "key": "KAT-10831",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/150151"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "149954",
+            "key": "KAT-10818",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/149954"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "149933",
+            "key": "KAT-10815",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/149933"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "149704",
+            "key": "KAT-10812",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/149704"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "149690",
+            "key": "KAT-10807",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/149690"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "149652",
+            "key": "KAT-10806",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/149652"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "149371",
+            "key": "KAT-10789",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/149371"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "149151",
+            "key": "KAT-10774",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/149151"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "149104",
+            "key": "KAT-10771",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/149104"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "149101",
+            "key": "KAT-10770",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/149101"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "148725",
+            "key": "KAT-10757",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/148725"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "147920",
+            "key": "KAT-10712",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/147920"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "147876",
+            "key": "KAT-10709",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/147876"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "147799",
+            "key": "KAT-10704",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/147799"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "147623",
+            "key": "KAT-10690",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/147623"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "145151",
+            "key": "KAT-10546",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/145151"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "144791",
+            "key": "KAT-10532",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/144791"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "143724",
+            "key": "KAT-10463",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/143724"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "143472",
+            "key": "KAT-10453",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/143472"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "143223",
+            "key": "KAT-10442",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/143223"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "143187",
+            "key": "KAT-10439",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/143187"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "141936",
+            "key": "KAT-10391",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/141936"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "141693",
+            "key": "KAT-10379",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/141693"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "141608",
+            "key": "KAT-10376",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/141608"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140756",
+            "key": "KAT-10330",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/140756"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140251",
+            "key": "KAT-10305",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/140251"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "139050",
+            "key": "KAT-10252",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/139050"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "138016",
+            "key": "KAT-10205",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/138016"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "137390",
+            "key": "KAT-10174",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/137390"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "137222",
+            "key": "KAT-10161",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/137222"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "137147",
+            "key": "KAT-10158",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/137147"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "134008",
+            "key": "KAT-10010",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/134008"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "133365",
+            "key": "KAT-9972",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/133365"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "132670",
+            "key": "KAT-9943",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/132670"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "132206",
+            "key": "KAT-9902",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/132206"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "132167",
+            "key": "KAT-9901",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/132167"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "131379",
+            "key": "KAT-9866",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/131379"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "129712",
+            "key": "KAT-9742",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/129712"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "129514",
+            "key": "KAT-9729",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/129514"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "129391",
+            "key": "KAT-9720",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/129391"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "129131",
+            "key": "KAT-9706",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/129131"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "127821",
+            "key": "KAT-9619",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/127821"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "127528",
+            "key": "KAT-9597",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/127528"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "127405",
+            "key": "KAT-9584",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/127405"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "127010",
+            "key": "KAT-9559",
+            "self": "https://jira.crpt.ru/rest/api/latest/issue/127010"
+        }
+    ],
+    "maxResults": 400,
+    "startAt": 0,
+    "total": 377
+}
