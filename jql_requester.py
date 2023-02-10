@@ -4,10 +4,6 @@ import json
 from requests.auth import HTTPBasicAuth
 
 def jira_status_checker(url, headers, auth):
-    url = url
-    headers=headers
-    auth = auth
-
     r = requests.request(method="GET",
                          url=url,
                          headers=headers,
@@ -71,7 +67,7 @@ if __name__ == '__main__':
 
     jira_host = "https://jira.crpt.ru"
     rest_api_path = "/rest/api/latest"
-    auth = HTTPBasicAuth("aleksandr.stalmakov", "TaNghetto2849")
+    auth = HTTPBasicAuth("username", "password")
     headers = {"Accept": "application/json"}
     payload = {
               "expand": [
